@@ -1,0 +1,24 @@
+body{
+    background-color:white;
+    color: black;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color:rgb(16, 55, 224);
+}
+h3{
+    color: brown;
+}
+
+#submit{
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 65px;
+    border: 2px solid white;
+    border-radius: 60px;
+}
+
+/*this is  a comment*/
